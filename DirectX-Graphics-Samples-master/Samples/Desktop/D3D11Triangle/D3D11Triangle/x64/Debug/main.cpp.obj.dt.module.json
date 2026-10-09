@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "D3D11Triangle\\x64\\Debug\\main.obj",
+            "outputs": [
+                "D3D11Triangle\\x64\\Debug\\main.cpp.obj.dt.module.json",
+                "D3D11Triangle\\x64\\Debug\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
